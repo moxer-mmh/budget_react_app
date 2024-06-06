@@ -1,6 +1,6 @@
 # budget_react_app
 IBM React lab
 
-![]npm install -s
+-npm install -s
 
-![]npm start
+-npm start
